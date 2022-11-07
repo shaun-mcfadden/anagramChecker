@@ -21,7 +21,7 @@ public class Main {
 
         else
         {
-            System.out.println("Strings are not Anagram");
+            System.out.println("lees");
         }
 
     }
